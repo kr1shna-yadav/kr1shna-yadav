@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,40:4327B9,50:4327B9,60:4338CA,100:0D1117&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,40:4327B9,50:4327B9,60:4338CA,100:0D1117&section=header" alt="service currently down!"/>
 
 <h1 align="center">Hi 👋, I'm Krishna Yadav</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=5449DB&center=true&vCenter=true&width=800&lines=Python+Developer;AI+%7C+Data+Science+Enthusiast;Building+Developer+Tools;Building+AI-Powered+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=5449DB&center=true&vCenter=true&width=800&lines=Python+Developer;AI+%7C+Data+Science+Enthusiast;Building+Developer+Tools;Building+AI-Powered+Applications;Always+Learning+Something+New" alt="service currently down!"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/kr1shna-yadav">
-    <img src="https://img.shields.io/github/followers/kr1shna-yadav?style=for-the-badge&logo=github&color=4338CA" />
+    <img src="https://img.shields.io/github/followers/kr1shna-yadav?style=for-the-badge&logo=github&color=4338CA" alt="service currently down!"/>
   </a>
 </p>
 
@@ -50,21 +50,21 @@ I believe the best way to learn technology is to build things with it.
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,html,css,tailwind,react,mysql,supabase,git,github&perline=6" /> <br>
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,html,css,tailwind,react,mysql,supabase,git,github&perline=6" alt="service currently down!"/> <br>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="service currently down!"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="service currently down!"/> <br>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="service currently down!"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="service currently down!"/>
 
 </div>
 
@@ -106,7 +106,7 @@ I believe the best way to learn technology is to build things with it.
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shna-yadav&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kr1shna-yadav&theme=tokyo-night&hide_border=true" alt="service currently down!"/>
 </p>
 
 ---
@@ -123,4 +123,4 @@ I believe the best way to learn technology is to build things with it.
 
 <p align="center"> 💡 Building intelligent tools that solve real problems. </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,40:4327B9,50:4327B9,60:4338CA,100:0D1117&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,40:4327B9,50:4327B9,60:4338CA,100:0D1117&section=footer" alt="service currently down!"/>
