@@ -22,7 +22,7 @@ I believe the best way to learn technology is to build things with it.
 
 # ⚡ Quick Snapshot
 
-- 🔭 Currently improving **DataGuard**
+- 🔭 Building **DataGuard — AI-assisted dataset analysis inside VS Code**
 - 🌱 Exploring **LangChain & AI Application Development**
 - 🤝 Open to collaborating on **AI, Data Science, Backend, and Developer Tooling Projects**
 - 💡 Interested in **LLMs, RAG Systems, Data Applications, and Automation**
@@ -32,7 +32,7 @@ I believe the best way to learn technology is to build things with it.
 
 # 💡 Philosophy
 
-> Build solutions that simplify workflows, automate repetitive tasks, and deliver real value to users.
+Build solutions that simplify workflows, automate repetitive tasks, and deliver real value to users.
 
 ---
 
@@ -65,21 +65,24 @@ I believe the best way to learn technology is to build things with it.
 
 ## 🛡️ DataGuard
 
-**DataGuard** is an all-in-one VS Code extension that opens an interactive analysis dashboard the moment you load a dataset, eliminating constant tool-switching and keeping your entire workflow inside VS Code.
+### AI-Assisted Dataset Analysis & Cleaning Inside Visual Studio Code
+
+DataGuard is a VS Code extension that keeps dataset workflows inside the editor.
+
+Open a dataset and instantly access profiling, visualization, cleaning tools, and optional AI-powered insights — without switching to notebooks or external applications.
 
 ### Highlights
 
-- ⚡ Instant Auto-Trigger
-- 📊 Interactive Visualizations
-- 🧹 One-Click Data Cleaning
-- 🧠 Optional AI Insights
-- 🔒 Privacy First & Offline Capable
+* 📊 Interactive dataset analysis
+* 🧹 Built-in data cleaning
+* ⚡ Automatic dataset detection
+* 🧠 Optional AI insights
+* 🔒 Local-first processing
 
-### Repository Status
+### Explore
 
-> 🔒 Currently private. Public release planned after further development.
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=kr1shna-yadav&repo=DataGuard-demo&theme=github_dark&hide_border=true" alt="Either the repo doesn't exists or it is a private repo"/> -->
+* GitHub: [Repository](https://github.com/kr1shna-yadav/DataGuard)
+* VS Code Marketplace: [DataGuard](https://marketplace.visualstudio.com/items?itemName=dataguard.dataguard)
 
 ---
 
@@ -104,9 +107,13 @@ I believe the best way to learn technology is to build things with it.
 
 # 🤝 Connect With Me
 
-<div align="center"> <br>
-  
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/kr1shna-yadav) &ensp; &ensp; [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kr1shna-yadav) &ensp; &ensp; [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:krishnayadav.workspace@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kr1shna-yadav)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@kr1shna-yadav)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kr1shna-yadav)
+[![Dev.to](https://img.shields.io/badge/dev.to-333333?style=for-the-badge&logo=dev.to&logoColor=eeeeee)](https://dev.to/kr1shna-yadav)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/kr1shna_yadav)
 
 </div>
 
